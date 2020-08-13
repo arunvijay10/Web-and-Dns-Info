@@ -1,0 +1,6 @@
+This tool  will tell about web Info and It will also tell dns Info
+To run This tool
+1. Chmod +x ServerDnsInfo.sh
+2. ./ServerDnsInfo.sh
+
+Enjoy
